@@ -1,41 +1,23 @@
-<h1 align="left">Renner Farias</h1>
+# Renner Farias 👋
 
-###
+## Seja bem-vindo ao meu pequeno espaço, onde compartilho meus trabalhos e estudos! 🚀
 
-<h2 align="left">Seja bem-vindo ao meu pequeno espaço, onde compartilho meus trabalhos e estudos!</h2>
+- 👨🏻‍💻 Estudante de **Sistemas de Informação**  
+- 💡 Interessado em **desenvolvimento back-end**  
+- 🎯 Meta: Trabalhar remotamente para explorar o mundo!  
+- 🎮 Hobbies: Esportes, livros e produção de vídeos.  
 
-###
+---
 
-<p align="left">👨🏻‍💻 Estudante de Sistemas de Informação<br>💡Interessado em desenvolvimento back-end <br>🎯 Minha meta é conseguir trabalhar independentemente do local para ter a liberdade de conhecer o mundo!<br>💭 Nos momentos livres, gosto de praticar esportes, ler livros e produzir vídeos.</p>
+## Você pode me acompanhar por aqui! 📫
 
-###
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rennerfarias)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rennerfarias_)
 
-<h2 align="left">Você pode me acompanhar por aqui!</h2>
+---
 
-###
+## Tecnologias que estou estudando 👨‍💻
 
-<div align="left">
-  <a href="https://www.youtube.com/@rennerfarias" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/></a><a href="https://www.instagram.com/rennerfarias_/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/></a>
-</div>
-
-###
-
-<h2 align="left">Aqui estão algumas coisas que eu estou estudando no momento 👇</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
