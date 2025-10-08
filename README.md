@@ -15,4 +15,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rennerfarias_)
 [![Meu Blog](https://img.shields.io/badge/Meu_Blog-8A2BE2?style=for-the-badge)](https://rennerfarias.github.io/Sobre-mim/)
 
----
